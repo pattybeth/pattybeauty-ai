@@ -1,0 +1,17 @@
+
+{
+  "name": "PattyBeauty AI",
+  "short_name": "PattyBeauty",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "description": "App de beleza com IA para sugerir esmaltes perfeitos",
+  "theme_color": "#d63384",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
